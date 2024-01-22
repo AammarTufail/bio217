@@ -1,0 +1,6 @@
+total 12
+drwxr-xr-x 2 sunam203 614000 4096 Jan 22 13:40 .
+drwxr-xr-x 3 sunam203 614000 4096 Jan 22 13:35 ..
+-rw-r--r-- 1 sunam203 614000    0 Jan 22 13:39 cuiseine.txt
+-rw-r--r-- 1 sunam203 614000   58 Jan 22 13:37 my_hobby.txt
+-rw-r--r-- 1 sunam203 614000    0 Jan 22 13:40 output.txt
